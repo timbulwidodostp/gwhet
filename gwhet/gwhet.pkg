@@ -1,5 +1,7 @@
-d 'DEA': Data envelopment analysis
+d 'gwhet': Likelihood Ratio test and Panel for groupwise heteroschedasticity Use gwhet and ghxt With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f ghxt.ado
+f ghxt.dlg
+f ghxt.sthlp
+f gwhet.ado
+f gwhet.hlp
